@@ -1,5 +1,21 @@
 # 🍏 Apple Retail Sales & Warranty Analysis 📊  
 
+## 📑 Table of Contents
+
+- [📌 Project Overview](#-project-overview)  
+- [🎯 Project Objectives](#-project-objectives)  
+- [📊 About the Data](#-about-the-data)  
+- [🛠️ Entity-Relationship (ER) Diagram](#-entity-relationship-er-diagram)  
+- [🚀 Skills Highlighted in This Project](#-skills-highlighted-in-this-project)  
+- [🔍 Key Business Questions Solved](#-key-business-questions-solved)  
+  - [📈 Easy to Medium Questions](#-easy-to-medium-questions)  
+  - [🔎 Medium to Hard Questions](#-medium-to-hard-questions)  
+  - [💡 Complex Questions](#-complex-questions)  
+  - [🎁 Bonus Question](#-bonus-question)  
+- [📂 Dataset](#-dataset)  
+- [🎯 Conclusion](#-conclusion)  
+
+
 ## 🚀 Project Overview  
 This project showcases **advanced SQL querying techniques** by analyzing **over 1 million rows** of sales and warranty data from a global retail business. The dataset includes details on **products, stores, sales transactions, and warranty claims** across multiple locations.  
 
@@ -34,8 +50,9 @@ This dataset enables deep **business analysis**, helping to uncover **sales tren
 
 ---  
 ## 🔗 Entity-Relationship (ER) Diagram  
-Your database includes the following **entities** and **relationships** based on your queries:  
+Your database includes the following **entities** and **relationships** based on your queries: 
 
+![ER Diagram](Photo/ERD.png)
 ### 📌 **Entities & Attributes:**  
 📌 **Products** (*product_id, product_name, category_id, price, launch_date*)  
 📌 **Categories** (*category_id, category_name*)  
