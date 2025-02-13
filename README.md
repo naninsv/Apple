@@ -1,5 +1,5 @@
 # 🍏 Apple Retail Sales & Warranty Analysis 📊  
-
+![Apple Image](Photo/apple_image.png)
 ## 📑 Table of Contents
 
 - [📌 Project Overview](#-project-overview)  
